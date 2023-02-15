@@ -38,7 +38,7 @@ Copy code
 Once both modules are installed, you can run the Python code using the following command:
 Copy code
 
-> python .\yt_face
+> python .\yt_face.py
 
  Please note that the code may take a while to execute, especially for longer videos.
 

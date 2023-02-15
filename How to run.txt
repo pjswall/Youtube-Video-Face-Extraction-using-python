@@ -36,7 +36,7 @@ pip install opencv-python pip install pytube
 Once both modules are installed, you can run the Python code using the following command:
 Copy code
 
-python .\yt_face
+python .\yt_face.py
  Please note that the code may take a while to execute, especially for longer videos.
 
 After successful execution, you will be able to see frames and faces stored in their respective folders. Please note that larger videos may generate a large number of frames and faces.

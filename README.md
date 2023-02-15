@@ -1,6 +1,5 @@
-# Youtube-Video-Face-Extraction-using-python
+# <img src="https://github.com/prateekj7777/Youtube-Video-Face-Extraction-using-python/blob/master/image.png" width="150px" height="30px" alt="youtube.jpg" align=center /> Youtube-Video-Face-Extraction-using-python
 
-<img src="https://github.com/prateekj7777/Youtube-Video-Face-Extraction-using-python/blob/master/image.png" width="80px" height="30px" alt="youtube.jpg" align=center />
 
 ## Instructions to Run the Code:
 

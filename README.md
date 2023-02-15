@@ -1,6 +1,6 @@
 # Youtube-Video-Face-Extraction-using-python
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-youtube-logo-icon-2431-thumb.png&imgrefurl=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Fyoutube-logo-2431.html&tbnid=_JdgOwqluREuGM&vet=12ahUKEwiLl-Hs8Jb9AhWU0TgGHSjzCe0QMygGegUIARDrAQ..i&docid=SvvxwQYIWSXlFM&w=512&h=512&q=youtube%20logo&ved=2ahUKEwiLl-Hs8Jb9AhWU0TgGHSjzCe0QMygGegUIARDrAQ" width="80px" height="30px" alt="youtube.jpg" align=center />
+<img src="https://github.com/prateekj7777/Youtube-Video-Face-Extraction-using-python/edit/master/image.png" width="80px" height="30px" alt="youtube.jpg" align=center />
 
 ## Instructions to Run the Code:
 
